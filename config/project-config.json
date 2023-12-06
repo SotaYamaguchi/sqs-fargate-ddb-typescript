@@ -1,0 +1,10 @@
+{
+  "namePrefix": "sqs-fargate-ddb-typescript",
+  "service": {
+    "cpu": 512,
+    "memory": 1024
+  },
+  "dashboard": {
+    "name": "node-service-dashboard"
+  }
+}
